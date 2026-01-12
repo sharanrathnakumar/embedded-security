@@ -1,0 +1,30 @@
+# Compiled binaries
+*.o
+*.out
+*.exe
+*.a
+*.so
+*.dylib
+
+# Executables (no extension)
+learning-notes/C-Programing/01-data-structures/circular_buffer
+learning-notes/C-Programing/01-data-structures/linked_list
+learning-notes/C-Programing/01-data-structures/stack
+learning-notes/C-Programing/01-data-structures/bst
+learning-notes/C-Programing/01-data-structures/hash_table
+
+# Build directories
+build/
+dist/
+*.dSYM/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
